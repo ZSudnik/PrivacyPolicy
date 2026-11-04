@@ -102,5 +102,4 @@ If you have a problem, please contact me first – most issues can be solved qui
 ## 13. Contact
 
 - Zbigniew Sudnik
-- Address: Mutton Place, London NW1 8DF, United Kingdom
 - Email: mapnik.lockscreen@gmail.com
